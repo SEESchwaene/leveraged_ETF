@@ -2,7 +2,7 @@
 
 Keywords: leveraged ETF, volatility drag, risks, quantitative finance
 
-Data from 1927 to 2020 from yfinance spx data (1927 to 2023).
+Data from 1927 to 2023 from yfinance spx data (1927 to 2023).
 
 Link: https://finance.yahoo.com/quote/%5EGSPC/history?p=%5EGSPC
 
